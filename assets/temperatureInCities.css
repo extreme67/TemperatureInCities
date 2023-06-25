@@ -1,0 +1,20 @@
+.name {
+    margin: 10px;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    background-color: rgba(141, 157, 236, 0.242);
+    max-width: 600px;
+    padding: 10px;
+    text-align: start
+}
+
+#temperature {
+    padding-top: 5px;
+}
+
+.temperature__value {
+    font-weight: bold;
+}
